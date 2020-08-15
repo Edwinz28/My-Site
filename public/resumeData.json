@@ -2,7 +2,6 @@
     "main": {
         "name": "Edwin Zhang",
         "bio": "My degree in computer engineering specializes in software development. Additionally I love 'next-gen' technology so I also plan on minoring in Artificial Intellegience and Machine Learning. I have experience working with C++, Python and Javascript which you can find out more in detail down below or download a condensed version in my resume!",
-        "resumedownload": "EdwinZhangResume.pdf",
         "social": [{
                 "name": "email",
                 "url": "mailto:Edwin.Zhang28@gmail.com",
@@ -45,6 +44,12 @@
                 "description": "StatsDrone offers a software to affiliate marketers that assists in amalgamating and analyzing their data. I worked with a team to help perform research on how to bring their new feature of creating a centralized databank to life. This feature will allow their users to make more informed decisions on future investments and partnerships. My team and I benchmarked existing or similar technologies on how to handle big data, researched scalable algorithms to validate data and methods of protecting user anonymity. "
             }
         ],
+        "projects": [{
+            "title": "Open Streets Map GIS",
+            "years": "January 2020 - April 2020",
+            "description": "desc"
+
+        }],
         "programming": [{
                 "name": "C++",
                 "level": "90%"
@@ -95,34 +100,28 @@
     },
     "portfolio": {
         "projects": [{
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
-                "image": "canadian-wanderlust.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "title": "Open Street Maps GIS",
+                "category": "A worldwide GIS developed from scratch using C++ and geographical data from Open Street Maps.",
+                "image": "OSMGIS.png",
+                "url": "https://github.com/Edwinz28/Open-Street-Maps-GIS"
             },
             {
-                "title": "Fury Fighting Gear",
-                "category": "(offline now) A fighting gear company I started",
-                "image": "fury-fighting-gear.jpg",
-                "url": "http://www.timbakerdev.com"
+                "title": "Various Machine Learning Problems",
+                "category": "A bunch of small side projects/problems tackled with ML algorithms. Developed using Python, Seaborn & Sci-kit Learn",
+                "image": "mlgit.jpg",
+                "url": "https://github.com/Edwinz28/Machine-Learning"
             },
             {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "original-thai-food.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+                "title": "My Personal Website",
+                "category": "This site is open source! Developed using ReactJS",
+                "image": "webpage.png",
+                "url": "https://github.com/Edwinz28/My-Site"
             },
             {
-                "title": "Resume Website",
-                "category": "A React based resume website template",
-                "image": "resume-website.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Smirkspace",
-                "category": "(MVP Only) A React and Meteor based chat University project.",
-                "image": "smirkspace.jpg",
-                "url": "http://www.smirkspace.com"
+                "title": "Auto Job Application Tracker",
+                "category": "A webscraping tool that will automatically create a excel spreadsheet of your job applications. Developed using Python and BS4",
+                "image": "autoapp.png",
+                "url": "https://github.com/Edwinz28/Auto-Job-Application-Tracker"
             }
         ]
     },
