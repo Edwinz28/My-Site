@@ -1,7 +1,6 @@
 {
     "main": {
         "name": "Edwin Zhang",
-        "image": "profilepic.JPG",
         "bio": "My degree in computer engineering specializes in software development. Additionally I love 'next-gen' technology so I also plan on minoring in Artificial Intellegience and Machine Learning. I have experience working with C++, Python and Javascript which you can find out more in detail down below or download a condensed version in my resume!",
         "resumedownload": "EdwinZhangResume.pdf",
         "social": [{
