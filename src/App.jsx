@@ -19,14 +19,14 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
+    //ReactGA.initialize('UA-110570651-1');
+    //ReactGA.pageview(window.location.pathname);
 
   }
 
   getResumeData(){
     $.ajax({
-      url:'https://Edwinz28.github.io/My-Site/resumeData.json/',
+      url:'/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -38,8 +38,7 @@ class App extends Component {
       }
     });
   }
-  //fweafwaef
-  //dummy stuff
+
   componentDidMount(){
     this.getResumeData();
   }
