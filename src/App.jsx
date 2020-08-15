@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'http://Edwinz28.github.io/My-Site/resumeData.json',
+      url:'https://Edwinz28.github.io/My-Site/resumeData.json/',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -38,7 +38,8 @@ class App extends Component {
       }
     });
   }
-
+  //fweafwaef
+  //dummy stuff
   componentDidMount(){
     this.getResumeData();
   }
