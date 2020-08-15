@@ -26,6 +26,7 @@ class About extends Component {
             </div>
          </div>
       </div>
+      <div className="meme-banner"></div>
 
    </section>
     );

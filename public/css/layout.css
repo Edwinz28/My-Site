@@ -22,7 +22,6 @@ header {
     -webkit-background-size: cover !important;
     text-align: center;
     overflow: hidden;
-    background-attachment: fixed;
 }
 
 
@@ -213,7 +212,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-    background: #2B2B2B;
+    background: #252323;
     padding-top: 96px;
     padding-bottom: 66px;
     overflow: hidden;
@@ -833,8 +832,8 @@ call-to-action .button {
 #testimonials blockquote p {
     font-family: 'librebaskerville-italic', serif;
     padding: 0;
-    font-size: 24px;
-    line-height: 48px;
+    font-size: 16px;
+    line-height: 24px;
     color: #fff
 }
 
@@ -996,6 +995,16 @@ call-to-action .button {
 
 
 /* ------------------------------------------------------------------ */
+
+.meme-banner {
+    background: #1F1F1F url(../images/banner.png) no-repeat center center;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+    position: relative;
+    min-height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
 
 
 /* ------------------------------------------------------------------ */
