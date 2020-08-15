@@ -1,18 +1,8 @@
 {
     "main": {
         "name": "Edwin Zhang",
-        "image": "profilepic.jpg",
+        "image": "profilepic.JPG",
         "bio": "My degree in computer engineering specializes in software development. Additionally I love 'next-gen' technology so I also plan on minoring in Artificial Intellegience and Machine Learning. I have experience working with C++, Python and Javascript which you can find out more in detail down below or download a condensed version in my resume!",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
-        "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)",
-            "zip": "(Your Zip/Postal Code)"
-        },
-        "website": "http://www.timbakerdev.com",
         "resumedownload": "EdwinZhangResume.pdf",
         "social": [{
                 "name": "email",
