@@ -52,15 +52,15 @@
         }],
         "programming": [{
                 "name": "C++",
-                "level": "90%"
+                "level": "85%"
             },
             {
                 "name": "C",
-                "level": "82%"
+                "level": "78%"
             },
             {
                 "name": "Python",
-                "level": "75%"
+                "level": "72%"
             },
             {
                 "name": "JavaScript",
@@ -76,12 +76,8 @@
                 "level": "70%"
             },
             {
-                "name": "HTML",
-                "level": "95%"
-            },
-            {
-                "name": "CSS/BootStrap",
-                "level": "72%"
+                "name": "HTML, CSS, Bootstrap",
+                "level": "80%"
             }
         ],
         "other": [{
@@ -90,11 +86,7 @@
             },
             {
                 "name": "MongoDB",
-                "level": "65%"
-            },
-            {
-                "name": "Verilog",
-                "level": "60%"
+                "level": "55%"
             }
         ]
     },
@@ -114,13 +106,13 @@
             {
                 "title": "My Personal Website",
                 "category": "This site is open source! Developed using ReactJS",
-                "image": "webpage.png",
+                "image": "webpage.PNG",
                 "url": "https://github.com/Edwinz28/My-Site"
             },
             {
                 "title": "Auto Job Application Tracker",
                 "category": "A webscraping tool that will automatically create a excel spreadsheet of your job applications. Developed using Python and BS4",
-                "image": "autoapp.png",
+                "image": "autoapp.PNG",
                 "url": "https://github.com/Edwinz28/Auto-Job-Application-Tracker"
             }
         ]
