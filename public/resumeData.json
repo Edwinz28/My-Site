@@ -44,12 +44,6 @@
                 "description": "StatsDrone offers a software to affiliate marketers that assists in amalgamating and analyzing their data. I worked with a team to help perform research on how to bring their new feature of creating a centralized databank to life. This feature will allow their users to make more informed decisions on future investments and partnerships. My team and I benchmarked existing or similar technologies on how to handle big data, researched scalable algorithms to validate data and methods of protecting user anonymity. "
             }
         ],
-        "projects": [{
-            "title": "Open Streets Map GIS",
-            "years": "January 2020 - April 2020",
-            "description": "desc"
-
-        }],
         "programming": [{
                 "name": "C++",
                 "level": "85%"
@@ -98,6 +92,12 @@
                 "url": "https://github.com/Edwinz28/Open-Street-Maps-GIS"
             },
             {
+                "title": "Traveling Salesman Competition",
+                "category": "A competition among all ECE students to design the best solution to the traveling salesman pickup/dropoff problem.",
+                "image": "tsp.jpg",
+                "url": "https://github.com/Edwinz28/TSPPD"
+            },
+            {
                 "title": "Various Machine Learning Problems",
                 "category": "A bunch of small side projects/problems tackled with ML algorithms. Developed using Python, Seaborn & Sci-kit Learn",
                 "image": "mlgit.jpg",
@@ -115,6 +115,7 @@
                 "image": "autoapp.PNG",
                 "url": "https://github.com/Edwinz28/Auto-Job-Application-Tracker"
             }
+
         ]
     },
     "testimonials": {
