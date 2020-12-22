@@ -1,19 +1,7 @@
 {
     "main": {
         "name": "Edwin Zhang",
-        "image": "profilepic.jpg",
         "bio": "My degree in computer engineering specializes in software development. Additionally I love 'next-gen' technology so I also plan on minoring in Artificial Intellegience and Machine Learning. I have experience working with C++, Python and Javascript which you can find out more in detail down below or download a condensed version in my resume!",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
-        "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)",
-            "zip": "(Your Zip/Postal Code)"
-        },
-        "website": "http://www.timbakerdev.com",
-        "resumedownload": "EdwinZhangResume.pdf",
         "social": [{
                 "name": "email",
                 "url": "mailto:Edwin.Zhang28@gmail.com",
@@ -58,15 +46,15 @@
         ],
         "programming": [{
                 "name": "C++",
-                "level": "90%"
+                "level": "85%"
             },
             {
                 "name": "C",
-                "level": "82%"
+                "level": "78%"
             },
             {
                 "name": "Python",
-                "level": "75%"
+                "level": "72%"
             },
             {
                 "name": "JavaScript",
@@ -82,12 +70,8 @@
                 "level": "70%"
             },
             {
-                "name": "HTML",
-                "level": "95%"
-            },
-            {
-                "name": "CSS/BootStrap",
-                "level": "72%"
+                "name": "HTML, CSS, Bootstrap",
+                "level": "80%"
             }
         ],
         "other": [{
@@ -96,50 +80,47 @@
             },
             {
                 "name": "MongoDB",
-                "level": "65%"
-            },
-            {
-                "name": "Verilog",
-                "level": "60%"
+                "level": "55%"
             }
         ]
     },
     "portfolio": {
         "projects": [{
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
-                "image": "canadian-wanderlust.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "title": "Open Street Maps GIS",
+                "category": "A worldwide GIS developed from scratch using C++ and geographical data from Open Street Maps.",
+                "image": "OSMGIS.png",
+                "url": "https://github.com/Edwinz28/Open-Street-Maps-GIS"
             },
             {
-                "title": "Fury Fighting Gear",
-                "category": "(offline now) A fighting gear company I started",
-                "image": "fury-fighting-gear.jpg",
-                "url": "http://www.timbakerdev.com"
+                "title": "Traveling Salesman Competition",
+                "category": "A competition among all ECE students to design the best solution to the traveling salesman pickup/dropoff problem.",
+                "image": "tsp.jpg",
+                "url": "https://github.com/Edwinz28/TSPPD"
             },
             {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "original-thai-food.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+                "title": "Various Machine Learning Problems",
+                "category": "A bunch of small side projects/problems tackled with ML algorithms. Developed using Python, Seaborn & Sci-kit Learn",
+                "image": "mlgit.jpg",
+                "url": "https://github.com/Edwinz28/Machine-Learning"
             },
             {
-                "title": "Resume Website",
-                "category": "A React based resume website template",
-                "image": "resume-website.jpg",
-                "url": "http://www.timbakerdev.com"
+                "title": "My Personal Website",
+                "category": "This site is open source! Developed using ReactJS",
+                "image": "webpage.PNG",
+                "url": "https://github.com/Edwinz28/My-Site"
             },
             {
-                "title": "Smirkspace",
-                "category": "(MVP Only) A React and Meteor based chat University project.",
-                "image": "smirkspace.jpg",
-                "url": "http://www.smirkspace.com"
+                "title": "Auto Job Application Tracker",
+                "category": "A webscraping tool that will automatically create a excel spreadsheet of your job applications. Developed using Python and BS4",
+                "image": "autoapp.PNG",
+                "url": "https://github.com/Edwinz28/Auto-Job-Application-Tracker"
             }
+
         ]
     },
     "testimonials": {
         "testimonials": [{
-            "text": "I've had the pleasure of working with Edwin through the Engineering Strategies & Practice (ESP) this year. Edwin was one of the leaders for a group that worked on a complex data survey to work with my data software tool for webmasters. The team in particular was given 4 to 5 projects that I gave and without hesitation they all chose the hardest project and the one I hoped they could make progress on.\n\nTheir research and reports are now being used by my programming team to implement a solution they came up with. The team impressed me with how fast they were able to learn about the affiliate marketing industry that I work in and it was important for them to understand it to be able to work on the project.\n\nEdwin took a lot of initiative in the group as he wasn't shy to ask questions. He had just as much initiative and ideas when coming up with solutions on the spot within our team meetings\n\nI am ecstatic I had this group of students to work with and Edwin in particular brought a lot of ideas and solutions that lead the group in the right direction. The team's work will accelerate this data survey project and Edwin did an amazing job!",
+            "text": "Edwin's research and reports are now being used by my programming team to implement a solution he came up with. He impressed me with how fast he was able to learn about the affiliate marketing industry that I work in and it was important for him to understand it to be able to work on the project. Edwin took a lot of initiative in the team as he wasn't shy to ask questions. He had just as much initiative and ideas when coming up with solutions on the spot within our team meetings.",
             "user": "John Wright - Cofounder of StatsDrone"
         }]
     }
