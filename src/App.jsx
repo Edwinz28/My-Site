@@ -20,7 +20,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'My-site/resumeData.json',
+      url:'https://edwinz28.github.io/My-Site/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -28,7 +28,7 @@ class App extends Component {
       }.bind(this),
       error: function(xhr, status, err){
         console.log("Resume Data Not Loaded");
-        alert("Resume Data Not Loaded");
+        alert("Failed to load resume data. cccPlease try to refresh the page");
       }
     });
   }
