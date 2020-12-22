@@ -29,13 +29,13 @@
             "school": "University of Toronto St. George",
             "degree": "Candidate for Bachelors in Computer Engineering",
             "graduated": "April 2022",
-            "description": "Had a wonderful experience at this school so far! My learning has been diverse from learning about circuits to analog/digital electronics, computer hardware, and my favourite: software development. I've had the opportunity to work on many cool projects and design courses with my peers and even some professionals. Additionally, I'm looking forwards to my third year as I will be taking really interesting software and machine learning courses."
+            "description": "I had a wonderful experience at my school so far! My learning has been diverse from learning about circuits to analog/digital electronics, computer hardware, and my favourite: software development. I am currently focusing on my degree by taking more software development related courses and expanding to AI's and machine learning"
         }],
         "work": [{
                 "company": "Major Tonic",
                 "title": "Full Stack Developer",
-                "years": "June 2010 - Present",
-                "description": "Major Tonic is a Toronto based clothing startup looking to enter the fashion industry. My role on the team is to develop their online platform in form of a website to advertise and sell their products to their customers. I used react to turn their design of a website into reality as well as using MongoDB Atlas and NodeJS to create a drop shipping system. I've implemented their payment system as well as their user management system."
+                "years": "June 2010 - September 2020",
+                "description": "Major Tonic is a Toronto based clothing startup looking to enter the fashion industry. My role on the team is to develop their online platform in form of a website to advertise and sell their products to their customers. I used react to turn their design of a website into reality as well as using MongoDB Atlas and NodeJS to create a drop shipping inventory system. I've implemented their payment system as well as their user management system."
             },
             {
                 "company": "StatsDrone",
@@ -96,12 +96,6 @@
                 "category": "A competition among all ECE students to design the best solution to the traveling salesman pickup/dropoff problem.",
                 "image": "tsp.jpg",
                 "url": "https://github.com/Edwinz28/TSPPD"
-            },
-            {
-                "title": "Various Machine Learning Problems",
-                "category": "A bunch of small side projects/problems tackled with ML algorithms. Developed using Python, Seaborn & Sci-kit Learn",
-                "image": "mlgit.jpg",
-                "url": "https://github.com/Edwinz28/Machine-Learning"
             },
             {
                 "title": "My Personal Website",
